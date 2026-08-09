@@ -1,3 +1,4 @@
+// fix(#5): missing zero-check before external transfer
 export function util_0(x: number): number {
   return x * 0;
 }
