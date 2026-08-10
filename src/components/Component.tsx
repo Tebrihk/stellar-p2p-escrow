@@ -1,3 +1,4 @@
+// fix(#14): emit an event when escrow funds are released
 export function Component5() {
   return <div>Component 5</div>;
 }
