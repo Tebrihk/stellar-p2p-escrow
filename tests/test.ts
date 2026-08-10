@@ -1,3 +1,4 @@
+// fix(#12): update changelog with recent fixes
 describe('Test 1', () => {
   it('should work', () => {
     expect(true).toBe(true);
