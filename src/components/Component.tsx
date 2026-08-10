@@ -1,3 +1,4 @@
+// fix(#11): misleading error message on insufficient funds
 export function Component5() {
   return <div>Component 5</div>;
 }
